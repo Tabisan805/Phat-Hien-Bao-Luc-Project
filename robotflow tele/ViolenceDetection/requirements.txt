@@ -1,0 +1,1 @@
+Flask gunicorn waitress opencv-python requests matplotlib roboflow pillow inference_sdk
